@@ -35,3 +35,13 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+tls/ca-key.pem
+tls/ca.csr
+tls/ca.pem
+tls/vault-key.pem
+tls/vault.csr
+tls/vault.pem
+tls/docker-desktop-privileged1008807280/cmd
+tls/docker-desktop-privileged1008807280/exitcode.txt
+vault-unseal-keys.txt
+tls/aciseposture.pid
